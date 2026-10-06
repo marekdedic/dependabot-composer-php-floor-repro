@@ -1,0 +1,12 @@
+{
+    "name": "marekdedic/dependabot-composer-php-floor-repro",
+    "description": "Minimal reproduction of a Dependabot composer issue",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": "^7.0 || ^8.0"
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^2.1"
+    }
+}
